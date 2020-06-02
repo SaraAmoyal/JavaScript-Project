@@ -1,0 +1,113 @@
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\0שרה אמויאל\JavaScript\project bcd\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\שנה א\JavaScript\project bcd\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
