@@ -1,0 +1,44 @@
+﻿
+
+.title {
+    font-size: 40px;
+    background-color: blueviolet;
+}
+
+.label {
+    position: absolute;
+    left: 50%;
+    top: 4px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+    width: 50px;
+    height: 20px;
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: limegreen;
+    height: 30px;
+    width: 30px;
+}
+
+.center {
+    justify-content: center;
+}
+
+.purple {
+    background-color: rebeccapurple;
+}
+
+#myDialog {
+    background-color: plum;
+    justify-content: center;
+}
+
+.winnn {
+    background-color: blueviolet;
+}
+
+body {
+    text-align: center;
+}
